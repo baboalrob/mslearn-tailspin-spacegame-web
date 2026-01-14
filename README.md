@@ -1,5 +1,6 @@
 
 # Contributing
+[![Build Status](https://dev.azure.com/TTH-Vision/Vision-AI/_apis/build/status%2Fbaboalrob.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/TTH-Vision/Vision-AI/_build/latest?definitionId=1&branchName=main)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -63,3 +64,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
